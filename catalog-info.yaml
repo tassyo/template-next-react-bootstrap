@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: template-next-react-bootstrap
+  annotations:
+    github.com/project-slug: tassyo/template-next-react-bootstrap
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
